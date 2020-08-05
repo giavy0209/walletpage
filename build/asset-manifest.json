@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/walletpage/build/static/css/main.08a4c69f.chunk.css",
-    "main.js": "/walletpage/build/static/js/main.f0a56c6d.chunk.js",
-    "main.js.map": "/walletpage/build/static/js/main.f0a56c6d.chunk.js.map",
+    "main.css": "/walletpage/build/static/css/main.5758b222.chunk.css",
+    "main.js": "/walletpage/build/static/js/main.c25244b1.chunk.js",
+    "main.js.map": "/walletpage/build/static/js/main.c25244b1.chunk.js.map",
     "runtime-main.js": "/walletpage/build/static/js/runtime-main.a085a05e.js",
     "runtime-main.js.map": "/walletpage/build/static/js/runtime-main.a085a05e.js.map",
-    "static/js/2.7fd5dd9b.chunk.js": "/walletpage/build/static/js/2.7fd5dd9b.chunk.js",
-    "static/js/2.7fd5dd9b.chunk.js.map": "/walletpage/build/static/js/2.7fd5dd9b.chunk.js.map",
+    "static/js/2.f1945a70.chunk.js": "/walletpage/build/static/js/2.f1945a70.chunk.js",
+    "static/js/2.f1945a70.chunk.js.map": "/walletpage/build/static/js/2.f1945a70.chunk.js.map",
     "index.html": "/walletpage/build/index.html",
-    "precache-manifest.40e09e0f5a619e0c57c86b6806559379.js": "/walletpage/build/precache-manifest.40e09e0f5a619e0c57c86b6806559379.js",
+    "precache-manifest.397b797dae4fbc11237f52938d62496b.js": "/walletpage/build/precache-manifest.397b797dae4fbc11237f52938d62496b.js",
     "service-worker.js": "/walletpage/build/service-worker.js",
-    "static/css/main.08a4c69f.chunk.css.map": "/walletpage/build/static/css/main.08a4c69f.chunk.css.map",
-    "static/js/2.7fd5dd9b.chunk.js.LICENSE.txt": "/walletpage/build/static/js/2.7fd5dd9b.chunk.js.LICENSE.txt",
+    "static/css/main.5758b222.chunk.css.map": "/walletpage/build/static/css/main.5758b222.chunk.css.map",
+    "static/js/2.f1945a70.chunk.js.LICENSE.txt": "/walletpage/build/static/js/2.f1945a70.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/walletpage/build/static/media/Roboto-Regular.11eabca2.ttf",
     "static/media/deposit.png": "/walletpage/build/static/media/deposit.d6e14d03.png",
+    "static/media/qrcode.jpg": "/walletpage/build/static/media/qrcode.51cba96e.jpg",
     "static/media/stake.png": "/walletpage/build/static/media/stake.dd63aad6.png",
     "static/media/symbal.png": "/walletpage/build/static/media/symbal.2540dcdb.png",
     "static/media/trade.png": "/walletpage/build/static/media/trade.4f0652c8.png",
@@ -21,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a085a05e.js",
-    "static/js/2.7fd5dd9b.chunk.js",
-    "static/css/main.08a4c69f.chunk.css",
-    "static/js/main.f0a56c6d.chunk.js"
+    "static/js/2.f1945a70.chunk.js",
+    "static/css/main.5758b222.chunk.css",
+    "static/js/main.c25244b1.chunk.js"
   ]
 }
