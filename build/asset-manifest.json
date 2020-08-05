@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.dbb8a1a2.chunk.css",
-    "main.js": "/static/js/main.8c566a0b.chunk.js",
-    "main.js.map": "/static/js/main.8c566a0b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.03eac58f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.03eac58f.js.map",
-    "static/js/2.7fd5dd9b.chunk.js": "/static/js/2.7fd5dd9b.chunk.js",
-    "static/js/2.7fd5dd9b.chunk.js.map": "/static/js/2.7fd5dd9b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4e7d2890829eb450daee2658234d7b27.js": "/precache-manifest.4e7d2890829eb450daee2658234d7b27.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.dbb8a1a2.chunk.css.map": "/static/css/main.dbb8a1a2.chunk.css.map",
-    "static/js/2.7fd5dd9b.chunk.js.LICENSE.txt": "/static/js/2.7fd5dd9b.chunk.js.LICENSE.txt",
-    "static/media/style.scss": "/static/media/Roboto-Regular.11eabca2.ttf",
-    "static/media/deposit.png": "/static/media/deposit.d6e14d03.png",
-    "static/media/stake.png": "/static/media/stake.dd63aad6.png",
-    "static/media/symbal.png": "/static/media/symbal.2540dcdb.png",
-    "static/media/trade.png": "/static/media/trade.4f0652c8.png",
-    "static/media/withdraw.png": "/static/media/withdraw.19b54c65.png"
+    "main.css": "/walletpage/build/static/css/main.ca377b39.chunk.css",
+    "main.js": "/walletpage/build/static/js/main.f0a56c6d.chunk.js",
+    "main.js.map": "/walletpage/build/static/js/main.f0a56c6d.chunk.js.map",
+    "runtime-main.js": "/walletpage/build/static/js/runtime-main.a085a05e.js",
+    "runtime-main.js.map": "/walletpage/build/static/js/runtime-main.a085a05e.js.map",
+    "static/js/2.7fd5dd9b.chunk.js": "/walletpage/build/static/js/2.7fd5dd9b.chunk.js",
+    "static/js/2.7fd5dd9b.chunk.js.map": "/walletpage/build/static/js/2.7fd5dd9b.chunk.js.map",
+    "index.html": "/walletpage/build/index.html",
+    "precache-manifest.9259cf8473039cc60d9880a002bcdd57.js": "/walletpage/build/precache-manifest.9259cf8473039cc60d9880a002bcdd57.js",
+    "service-worker.js": "/walletpage/build/service-worker.js",
+    "static/css/main.ca377b39.chunk.css.map": "/walletpage/build/static/css/main.ca377b39.chunk.css.map",
+    "static/js/2.7fd5dd9b.chunk.js.LICENSE.txt": "/walletpage/build/static/js/2.7fd5dd9b.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/walletpage/build/static/media/Roboto-Regular.11eabca2.ttf",
+    "static/media/deposit.png": "/walletpage/build/static/media/deposit.d6e14d03.png",
+    "static/media/stake.png": "/walletpage/build/static/media/stake.dd63aad6.png",
+    "static/media/symbal.png": "/walletpage/build/static/media/symbal.2540dcdb.png",
+    "static/media/trade.png": "/walletpage/build/static/media/trade.4f0652c8.png",
+    "static/media/withdraw.png": "/walletpage/build/static/media/withdraw.19b54c65.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.03eac58f.js",
+    "static/js/runtime-main.a085a05e.js",
     "static/js/2.7fd5dd9b.chunk.js",
-    "static/css/main.dbb8a1a2.chunk.css",
-    "static/js/main.8c566a0b.chunk.js"
+    "static/css/main.ca377b39.chunk.css",
+    "static/js/main.f0a56c6d.chunk.js"
   ]
 }
