@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/walletpage/build/static/css/main.ca377b39.chunk.css",
+    "main.css": "/walletpage/build/static/css/main.08a4c69f.chunk.css",
     "main.js": "/walletpage/build/static/js/main.f0a56c6d.chunk.js",
     "main.js.map": "/walletpage/build/static/js/main.f0a56c6d.chunk.js.map",
     "runtime-main.js": "/walletpage/build/static/js/runtime-main.a085a05e.js",
@@ -8,9 +8,9 @@
     "static/js/2.7fd5dd9b.chunk.js": "/walletpage/build/static/js/2.7fd5dd9b.chunk.js",
     "static/js/2.7fd5dd9b.chunk.js.map": "/walletpage/build/static/js/2.7fd5dd9b.chunk.js.map",
     "index.html": "/walletpage/build/index.html",
-    "precache-manifest.9259cf8473039cc60d9880a002bcdd57.js": "/walletpage/build/precache-manifest.9259cf8473039cc60d9880a002bcdd57.js",
+    "precache-manifest.40e09e0f5a619e0c57c86b6806559379.js": "/walletpage/build/precache-manifest.40e09e0f5a619e0c57c86b6806559379.js",
     "service-worker.js": "/walletpage/build/service-worker.js",
-    "static/css/main.ca377b39.chunk.css.map": "/walletpage/build/static/css/main.ca377b39.chunk.css.map",
+    "static/css/main.08a4c69f.chunk.css.map": "/walletpage/build/static/css/main.08a4c69f.chunk.css.map",
     "static/js/2.7fd5dd9b.chunk.js.LICENSE.txt": "/walletpage/build/static/js/2.7fd5dd9b.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/walletpage/build/static/media/Roboto-Regular.11eabca2.ttf",
     "static/media/deposit.png": "/walletpage/build/static/media/deposit.d6e14d03.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.a085a05e.js",
     "static/js/2.7fd5dd9b.chunk.js",
-    "static/css/main.ca377b39.chunk.css",
+    "static/css/main.08a4c69f.chunk.css",
     "static/js/main.f0a56c6d.chunk.js"
   ]
 }
