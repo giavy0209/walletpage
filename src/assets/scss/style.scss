@@ -378,13 +378,16 @@ main{
         table{
             width: 1090px;
             margin: 0 -1px;
+            border-collapse:collapse;
             tr{
-                +tr{
+                &:not(:nth-child(-n + 2)){
                     border-top: 1px solid #5a5e6c;
                 }
                 th{
                     background-color: #434a54;
                     padding: 18px 0;
+                    border: 1px solid transparent;
+                    position: relative;
                 }
                 td{
                     text-align: center;
